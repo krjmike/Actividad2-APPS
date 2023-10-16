@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_create"
+        android:title="Crear Publicación" />
+    <item
+        android:id="@+id/menu_read"
+        android:title="Listar Publicaciones" />
+    <item
+        android:id="@+id/menu_update"
+        android:title="Editar Publicación" />
+    <item
+        android:id="@+id/menu_delete"
+        android:title="Eliminar Publicación" />
+</menu>
